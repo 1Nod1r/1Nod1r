@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1Nod1r
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning Swift programming language 
+- 🌱 I’m currently learning Swift and C++ programming languages
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me kh.nodirbeek@gmail.com
 
